@@ -22,3 +22,4 @@ This Repository contains HackerRank Solutions.
 20. Text Alignment
 21. Text Wrap
 22. String Formatting
+23. Alphabet Rangoli
