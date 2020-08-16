@@ -23,3 +23,4 @@ This Repository contains HackerRank Solutions.
 21. Text Wrap
 22. String Formatting
 23. Alphabet Rangoli
+24. Capitalize
