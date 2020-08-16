@@ -24,3 +24,4 @@ This Repository contains HackerRank Solutions.
 22. String Formatting
 23. Alphabet Rangoli
 24. Capitalize
+25. Minion Game
