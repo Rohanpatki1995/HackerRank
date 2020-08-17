@@ -26,3 +26,4 @@ This Repository contains HackerRank Solutions.
 24. Capitalize
 25. Minion Game
 26. Merge the Tools
+27. Itertools Product
