@@ -25,3 +25,4 @@ This Repository contains HackerRank Solutions.
 23. Alphabet Rangoli
 24. Capitalize
 25. Minion Game
+26. Merge the Tools
