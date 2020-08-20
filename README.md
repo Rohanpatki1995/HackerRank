@@ -27,3 +27,4 @@ This Repository contains HackerRank Solutions.
 25. Minion Game
 26. Merge the Tools
 27. Itertools Product
+28. collections.Counter()
