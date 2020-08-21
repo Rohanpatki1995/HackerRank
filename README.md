@@ -28,4 +28,5 @@ This Repository contains HackerRank Solutions.
 26. Merge the Tools
 27. Itertools Product
 28. collections.Counter()
-29. itertools.permutation()
+29. itertools.permutations()
+41. Itertools.combinations()
