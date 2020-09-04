@@ -31,4 +31,5 @@ This Repository contains HackerRank Solutions.
 29. itertools.permutations()
 30. Polar Coordinates
 31. Introduction to Sets
+32. DefaultDict Tutorial
 41. Itertools.combinations()
