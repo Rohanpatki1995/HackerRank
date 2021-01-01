@@ -32,4 +32,6 @@ This Repository contains HackerRank Solutions.
 30. Polar Coordinates
 31. Introduction to Sets
 32. DefaultDict Tutorial
+33. Calender Module
+34. Exceptions
 41. Itertools.combinations()
