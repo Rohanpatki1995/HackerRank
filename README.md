@@ -34,4 +34,5 @@ This Repository contains HackerRank Solutions.
 32. DefaultDict Tutorial
 33. Calender Module
 34. Exceptions
+35. collections.namedtuple()
 41. Itertools.combinations()
