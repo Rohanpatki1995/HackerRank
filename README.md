@@ -38,6 +38,7 @@ My HackerRank profile: https://www.hackerrank.com/patki_r
 34. Exceptions
 35. Collections.namedtuple()
 36. Time Delta
+37. Find Angle MBC
 41. Itertools.combinations()
 43. Set.add()
 46. set.discard(), .remove() & .pop()
