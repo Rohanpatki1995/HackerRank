@@ -35,4 +35,5 @@ This Repository contains HackerRank Solutions.
 33. Calender Module
 34. Exceptions
 35. Collections.namedtuple()
+36. Time Delta
 41. Itertools.combinations()
