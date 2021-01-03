@@ -38,3 +38,4 @@ This Repository contains HackerRank Solutions.
 36. Time Delta
 41. Itertools.combinations()
 43. Set.add()
+46. set.discard(), .remove() & .pop()
