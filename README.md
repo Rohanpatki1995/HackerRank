@@ -1,5 +1,7 @@
 This Repository contains HackerRank Solutions.
 
+My HackerRank profile: https://www.hackerrank.com/patki_r
+
 01. Say "Hello, World!" with Python
 02. Python If-Else
 03. Arithmetic Operators
