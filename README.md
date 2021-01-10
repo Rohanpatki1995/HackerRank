@@ -41,6 +41,7 @@ My HackerRank profile: https://www.hackerrank.com/patki_r
 37. Find Angle MBC
 38. No Idea!
 39. Collections.orderedDict()
+40. Symmetric Difference
 41. Itertools.combinations()
 43. Set.add()
 46. set.discard(), .remove() & .pop()
