@@ -46,5 +46,5 @@ My HackerRank profile: https://www.hackerrank.com/patki_r
 42. Incorrect Regex
 43. Set.add()
 46. set.discard(), .remove() & .pop()
-47.Validating Phone Numbers
-48. Re.split()
+47. Re.split()
+48. Validating Phone Numbers
