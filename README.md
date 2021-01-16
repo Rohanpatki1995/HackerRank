@@ -43,5 +43,6 @@ My HackerRank profile: https://www.hackerrank.com/patki_r
 39. Collections.orderedDict()
 40. Symmetric Difference
 41. Itertools.combinations()
+42. Incorrect Regex
 43. Set.add()
 46. set.discard(), .remove() & .pop()
